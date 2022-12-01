@@ -1,0 +1,5 @@
+#if defined  NUMERIC_KEYPAD_TUNING_FEATURE
+<p>
+    Sie können auch Nummer Taste benutzen.
+</p>
+#endif

@@ -1,0 +1,5 @@
+#if defined FAST_FREQUENCY_TUNING_FEATURE
+<p>
+				Wenn Sie  <span class="key">LEFT</span> oderr <span class="key">RIGHT</span> gedrückt halten, wird der Frequenzsuchlauf beschleunigt.
+			</p>
+#endif

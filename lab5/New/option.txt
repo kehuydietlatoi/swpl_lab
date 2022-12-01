@@ -1,0 +1,11 @@
+#define UP &uarr;
+#define DOWN &darr;
+#define LEFT &lt;&lt;
+#define RIGHT &gt;&gt;
+#define LANGUAGE english
+#define MANUEL_TUNING_FEATURE 1
+#define AUTO_TUNING_FEATURE 1
+#define FAST_AUTOMATIC_TUNING_FEATURE 1
+#define FAST_FREQUENCY_TUNING_FEATURE 1
+#define NUMERIC_KEYPAD_TUNING_FEATURE 1
+//gcc -E -P -Wall -D NAME=New -o output.html p3.cpp

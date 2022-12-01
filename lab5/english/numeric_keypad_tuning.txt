@@ -1,0 +1,5 @@
+#if defined  NUMERIC_KEYPAD_TUNING_FEATURE
+<p>
+    You can also use keypad for tuning.
+</p>
+#endif

@@ -1,0 +1,7 @@
+<head>
+<meta charset="UTF-8"/>
+              <style>
+.key	{background-color:lightgrey;}
+</style>
+<title>User manual for Bluedot NAME</title>
+</head>

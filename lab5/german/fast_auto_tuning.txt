@@ -1,0 +1,5 @@
+#if defined  FAST_AUTOMATIC_TUNING_FEATURE
+<p>
+Wenn Sie <span class="key">UP</span> oder <span class="key">DOWN</span> gedrückt halten, läuft die Sendersuche schnell vorwärts oder rückwärts.
+</p>
+#endif

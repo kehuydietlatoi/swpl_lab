@@ -1,0 +1,7 @@
+#if defined  MANUEL_TUNING_FEATURE
+
+      <h3>Manual tuning with <span class="key">LEFT</span> or <span class="key">RIGHT</span></h3>
+        <p>Press <span class="key">LEFT</span> or <span class="key">RIGHT</span>,
+        the frequency will change in short intervals downwards or upwards.
+        </p>
+ #endif

@@ -1,0 +1,3 @@
+<h1>Bluedot NAME</h1>
+    <h2>Sendereinstellung</h2>
+      <p>Es gibt verschiedene Möglichkeiten, einen Sender einzustellen.</p>

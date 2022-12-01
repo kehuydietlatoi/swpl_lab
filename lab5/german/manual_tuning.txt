@@ -1,0 +1,7 @@
+#if defined MANUEL_TUNING_FEATURE
+
+      <h3>Manuelle Abstimmung mit<span class="key">LEFT</span> oder <span class="key">RIGHT</span></h3>
+        <p>Drucken Sie die <span class="key">LEFT</span> oderr <span class="key">RIGHT</span>,
+        die Frequenz ändert sich in kurzen Abständen nach unten oder oben.
+        </p>
+        #endif

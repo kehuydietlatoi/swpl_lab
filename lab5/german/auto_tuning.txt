@@ -1,0 +1,6 @@
+#if defined AUTO_TUNING_FEATURE
+
+    <h3>Automatisches Einstellung</h3>
+      <p>Drücken Sie die <span class="key">UP</span> oderr <span class="key">DOWN</span> Taste.</p>
+      <p>Das Radio stellt den nächsten empfangbaren Sender ein</p>
+      #endif

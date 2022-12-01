@@ -1,0 +1,6 @@
+#if defined  AUTO_TUNING_FEATURE
+
+    <h3>Automatic tuning</h3>
+      <p>Press the <span class="key">UP</span> or <span class="key">DOWN</span> button.</p>
+      <p>The radio tunes into the next receiavable station</p>
+    #endif

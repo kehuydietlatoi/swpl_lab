@@ -1,0 +1,6 @@
+#if defined  FAST_AUTOMATIC_TUNING_FEATURE
+<p>
+    If you hold down <span class="key">UP</span> or <span class="key">DOWN</span>,
+the station search will run forwards or backwards quickly.
+</p>
+#endif

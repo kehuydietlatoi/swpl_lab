@@ -1,0 +1,6 @@
+#if defined  FAST_FREQUENCY_TUNING_FEATURE
+<p>
+				If you hold <span class="key">LEFT</span> or <span class="key">RIGHT</span> down,
+				the frequency scan will accelerate.
+			</p>
+#endif
